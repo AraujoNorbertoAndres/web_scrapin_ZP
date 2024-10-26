@@ -35,7 +35,7 @@ De esta manera se obtienen dos dataframes con la información general que dan en
  - No se recolectó información sobre las expensas.
   
 ## Ideas
- - Conectarme a la API del BCRA con el fin de extraer el precio del dólar y representar el valor de las viviendas en pesos argentinos, además de que se actualice - 
+ - Conectarme a la API del BCRA con el fin de extraer el precio del dólar y representar el valor de las viviendas en pesos argentinos, además de que se actualice 
  - automáticamente al aumentar el precio del dólar.
  - Intentar encontrar un mapa vectorizado de La Matanza y agregarlo a Power BI para que el análisis sea más profundo.
  - Encontrar información como:
