@@ -16,7 +16,8 @@ Este script toma de ZonaProp algunos datos como:
  - Baños.
  - Toilette.
  - Entre otros.
- - El orden de ejecución sería el siguiente:
+
+## El orden de ejecución sería el siguiente:
 
 script_solicitud ↓
 
